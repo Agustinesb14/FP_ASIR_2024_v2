@@ -1,0 +1,11 @@
+.linear-gradient {
+    background-image: linear-gradient(red, yellow);
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.radial-gradient {
+    background-image: radial-gradient(circle, blue, green);
+    padding: 20px;
+    margin: 10px 0;
+}
